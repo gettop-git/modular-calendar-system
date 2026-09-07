@@ -1,0 +1,24 @@
+name,event,start,end,room_id
+Alice,Morning meeting,8:00,9:30,Room A
+Alice,Lunch with Jack,13:00,14:00,Room B
+Alice,Yoga,16:00,17:00,Room C
+Jack,Morning meeting,8:00,8:50,Room D
+Jack,Sales call,9:00,9:40,Room B
+Jack,Lunch with Alice,13:00,14:00,Room B
+Jack,Yoga,16:00,17:00,Room D
+Bob,Morning meeting,8:00,9:30,Room B
+Bob,Morning meeting 2,9:30,9:40,Room D
+Bob,Q3 review,10:00,11:30,Room A
+Bob,Lunch and siesta,13:00,15:00,Room C
+Bob,Yoga,16:00,17:00,Room A
+Jack,birthday,18:00,18:30,Room B
+Bob,birthday,18:00,18:30,Room B
+Alice,wedding,17:00,18:00,Room D
+Jack,wedding,17:00,18:00,Room D
+Bob,wedding,17:00,18:00,Room D
+Jack,Shared meal,15:00,15:45,Room D
+Bob,Shared meal,15:00,15:45,Room D
+Alice,capacity,07:00,07:15,Room D
+Bob,capacity,07:00,07:15,Room D
+
+

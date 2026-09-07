@@ -1,0 +1,7 @@
+name,event_title,start_time,end_time,room_id
+Alice,Morning meeting,08:00,09:00,Room A
+Bob,All day workshop,08:00,18:00,Room A
+Charlie,Quick sync,10:00,10:30,Room B
+David,Project review,11:00,12:00,Room C
+Alice,Client call,13:00,14:00,Room E
+Charlie,Code review,15:00,16:30,Room C
