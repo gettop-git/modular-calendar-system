@@ -1,3 +1,5 @@
+such an impressive project כמעט השתכנעתי בעצמי
+
 # Comp Calendar Scheduler
 
 A Python calendar scheduling application designed with a robust, decoupled architecture adhering to SOLID principles and Dependency Injection. It finds suitable meeting times for multiple participants and selects an available meeting room efficiently.
