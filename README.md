@@ -1,3 +1,4 @@
+---------------------------------------------
 such an impressive project כמעט השתכנעתי בעצמי
 
 # Comp Calendar Scheduler
@@ -22,7 +23,7 @@ The application can:
 
 * Python 3.8 or higher
 * pytest
-
+......................................................
 ## Project Structure
 
 ```text
