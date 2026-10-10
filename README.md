@@ -181,4 +181,5 @@ Expected result:
 
 ```text
 All tests passed successfully.
+@
 ```
